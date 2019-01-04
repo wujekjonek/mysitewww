@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="PJWSTK">
+  
+
+<gallery Name="Ex Libris">
+	
+	<image Thumb="pjwstk/exlibris/thumb01.jpg" Large="pjwstk/exlibris/praca_01.jpg" Caption="01">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Praca konkursowa - projekt Ex Librisu dla Polsko-Japońskiej Wyższej Szkoły Technik Komputerowych w Bytomiu</font><br>]]></copy>
+    </image>	
+	
+	<image Thumb="pjwstk/exlibris/thumb02.jpg" Large="pjwstk/exlibris/praca_02.jpg" Caption="02">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Praca konkursowa - projekt Ex Librisu dla Polsko-Japońskiej Wyższej Szkoły Technik Komputerowych w Bytomiu</font><br>]]></copy>
+    </image>	
+
+	<image Thumb="pjwstk/exlibris/thumb03.jpg" Large="pjwstk/exlibris/praca_03.jpg" Caption="03">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Praca konkursowa - projekt Ex Librisu dla Polsko-Japońskiej Wyższej Szkoły Technik Komputerowych w Bytomiu</font><br>]]></copy>
+    </image>		
+	
+	
+	
+	
+  </gallery>
+
+
+
+  <gallery Name="3D">
+	
+	<image Thumb="pjwstk/3d/3d1-thumb.jpg" Large="pjwstk/3d/3d1.jpg" Caption="01">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Praca wykonana na zaliczenie przedmiotu "Grafika 3D" </font><br>]]></copy>
+    </image>	
+	
+	<image Thumb="pjwstk/3d/3d2-thumb.jpg" Large="pjwstk/3d/3d2.jpg" Caption="02">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+    </image>	
+
+	<image Thumb="pjwstk/3d/3d3-thumb.jpg" Large="pjwstk/3d/3d3.jpg" Caption="03">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+    </image>		
+	
+	
+	
+	
+  </gallery>
+
+
+</content>

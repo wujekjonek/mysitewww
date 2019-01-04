@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+= listing2
+
+tu testuję kolorowanie listingu on-line
+
+
+
+
+ponizej div kod
+
+
+
+
+<div class=kod >
+    }"asdasd"
+return;"
+ ;
+    value"
+;
+    '
+%
+    'sfsdfgsdf' %
+</div>
+
+
+<hr><hr><hr><hr>
+
+
+
+
+<script type="text/javascript">
+    var x = document.getElementsByClassName("kod");
+
+    var zielony = '#00FF00';
+    var czerwony = '#FF0000';
+
+    for (var i = 0; i < x.length; i++) {
+        textContent2 = x[i].textContent;
+        var resultat = textContent2;
+// POMARAŃCZOWE -----------------------------------
+         resultat = resultat.replace(/for/g, '<span style=\'color:#cc7832; font-weight: bold \'>for</span>');
+         resultat = resultat.replace(/if/g, '<span style=\'color:#cc7832; font-weight: bold \'>if</span>');
+         resultat = resultat.replace(/let/g, '<span style=\'color:#cc7832; font-weight: bold \'>let</span>');
+         resultat = resultat.replace(/this/g, '<span style=\'color:#cc7832; font-weight: bold \'>this</span>');
+         resultat = resultat.replace(/function/g, '<span style=\'color:#cc7832; font-weight: bold \'>function</span>');
+         resultat = resultat.replace(/else/g, '<span style=\'color:#cc7832; font-weight: bold \'>else</span>');
+         resultat = resultat.replace(/var/g, '<span style=\'color:#cc7832; font-weight: bold \'>var</span>');
+         resultat = resultat.replace(/return/g, '<span style=\'color:#cc7832; font-weight: bold \'>return</span>');
+
+//        var resultat = resultat.replace(/\;/g, '<span style=\'color:#cc7832; font-weight: bold \'>;</span>');
+
+
+// FIOLETOWE --------------------------------------
+         resultat = resultat.replace(/value/g, '<span style=\'color:#9876aa  \'>value</span>');
+         resultat = resultat.replace(/length/g, '<span style=\'color:#9876aa  \'>length</span>');
+         resultat = resultat.replace(/console/g, '<span style=\'color:#9876aa  \'>console</span>');
+         resultat = resultat.replace(/className/g, '<span style=\'color:#9876aa  \'>className</span>');
+         resultat = resultat.replace(/document/g, '<span style=\'color:#9876aa  \'>document</span>');
+         resultat = resultat.replace(/\.id/g, '<span style=\'color:#ffffff  \'>.</span><span style=\'color:#9876aa  \'>id</span>');
+         resultat = resultat.replace(/textContent/g, '<span style=\'color:#9876aa  \'>textContent</span>');
+
+
+
+
+
+
+// ŻÓŁTE --------------------------------------
+         resultat = resultat.replace(/getElementById/g, '<span style=\'color:#ffc66d; \'>getElementById</span>');
+         resultat = resultat.replace(/log/g, '<span style=\'color:#ffc66d; \'>log</span>');
+         resultat = resultat.replace(/createElement/g, '<span style=\'color:#ffc66d; \'>createElement</span>');
+         resultat = resultat.replace(/onclick/g, '<span style=\'color:#ffc66d;\'>onclick</span>');
+         resultat = resultat.replace(/appendChild/g, '<span style=\'color:#ffc66d;\'>appendChild</span>');
+         resultat = resultat.replace(/toggleClass/g, '<span style=\'color:#ffc66d;\'>toggleClass</span>');
+
+
+
+
+
+
+// ZIELONE --------------------------------------
+         resultat = resultat.replace(/\"/g,   '<span style=\'color:#6a8759; \'>"</span>');
+   //      resultat = resultat.replace(/&#96/g,  '<span style=\'color:#6a8759; \'>@</span>');
+         resultat = resultat.replace(/'/g,  '<span style=\'color:#6a8759; \'>@</span>');
+
+
+         //   myVal = myVal.replace(/"/g, '\\"');   // escape quotes
+
+
+        x[i].innerHTML = resultat;
+    }
+</script>
+
+<hr><hr><hr><hr>
+</body>
+</html>

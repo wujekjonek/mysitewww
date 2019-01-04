@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="UNCLE BEN's">
+ 
+	<gallery Name="RÓŻNE">
+	<image Thumb="unclebens/unclebens-01-thumb.jpg" Large="unclebens/unclebens-01.jpg" Caption="">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+	</image>
+
+	
+	<image Thumb="unclebens/unclebens-02-thumb.jpg" Large="unclebens/unclebens-02.jpg" Caption="">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+	</image>
+		
+	<image Thumb="unclebens/unclebens-03-thumb.jpg" Large="unclebens/unclebens-03.jpg" Caption="">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+	</image>
+
+
+	<image Thumb="unclebens/unclebens-04-thumb.jpg" Large="unclebens/unclebens-04.jpg" Caption="">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+	</image>
+		
+		
+	<image Thumb="unclebens/unclebens-05-thumb.jpg" Large="unclebens/unclebens-05.jpg" Caption="">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+	</image>
+	
+		
+	
+	
+	</gallery>
+
+</content>

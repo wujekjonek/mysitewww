@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="IPIŚ PAN">
+  
+	<gallery Name="POSTERY">
+
+		<image Thumb="ipispan/postery/poster-03-thumb.jpg" Large="ipispan/postery/poster-03.jpg" Caption="poster 1">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster-01-thumb.jpg" Large="ipispan/postery/poster-01.jpg" Caption="poster 2">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+    
+		<image Thumb="ipispan/postery/poster-02-thumb.jpg" Large="ipispan/postery/poster-02.jpg" Caption="poster 3">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+		
+		<image Thumb="ipispan/postery/poster-04-thumb.jpg" Large="ipispan/postery/poster-04.jpg" Caption="poster 4">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+	
+		<image Thumb="ipispan/postery/poster-05-thumb.jpg" Large="ipispan/postery/poster-05.jpg" Caption="poster 5">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+	
+		<image Thumb="ipispan/postery/poster-a4-thumb.jpg" Large="ipispan/postery/poster-a4.jpg" Caption="poster 6">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster chiny 2010 - wioletta-thumb.jpg" Large="ipispan/postery/poster chiny 2010 - wioletta.jpg" Caption="poster 7">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster chiny 2010-thumb.jpg" Large="ipispan/postery/poster chiny 2010.jpg" Caption="poster 8">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster lublin 2009 - klej-thumb.jpg" Large="ipispan/postery/poster lublin 2009 - klej.jpg" Caption="poster 9">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster lublin 2009 - wiola-thumb.jpg" Large="ipispan/postery/poster lublin 2009 - wiola.jpg" Caption="poster 10">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster niemcy 2009-thumb.jpg" Large="ipispan/postery/poster niemcy 2009.jpg" Caption="poster 11">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster saloniki 2008-thumb.jpg" Large="ipispan/postery/poster saloniki 2008.jpg" Caption="poster 12">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster turcja 2009-thumb.jpg" Large="ipispan/postery/poster turcja 2009.jpg" Caption="poster 13">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/postery/poster-szopa-thumb.jpg" Large="ipispan/postery/poster-szopa.jpg" Caption="poster 14">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>
+  </gallery>
+
+  <gallery Name="MONOGRAFIE">
+		<image Thumb="ipispan/monografie/monografia-2004-thumb.jpg" Large="ipispan/monografie/monografia-2004.jpg" Caption="Monografia 2004">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Monografia przygotowana na koferencję "Ochrona powietrza w teorii i praktyce" - Zakopane 2004.</font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/monografie/monografia-2006-thumb.jpg" Large="ipispan/monografie/monografia-2006.jpg" Caption="Monografia 2006">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Monografia przygotowana na koferencję "Ochrona powietrza w teorii i praktyce" - Zakopane 2006.</b></font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/monografie/monografia-2008-thumb.jpg" Large="ipispan/monografie/monografia-2008.jpg" Caption="Monografia 2008">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Monografia przygotowana na koferencję "Ochrona powietrza w teorii i praktyce" - Zakopane 2008.</b></font><br>]]></copy>
+		</image>
+
+		<image Thumb="ipispan/monografie/monografia-2010-thumb.jpg" Large="ipispan/monografie/monografia-2010.jpg" Caption="Monografia 2010">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Monografia przygotowana na koferencję „Ochrona powietrza w teorii i praktyce” - Zakopane 2010.</b></font><br>]]></copy>
+		</image>
+	</gallery>
+
+	<gallery Name="LOGOTYP">
+	
+		<image Thumb="ipispan/logo/logo-kolor-flat-thumb.jpg" Large="ipispan/logo/logo-kolor-flat.jpg" Caption="Logo kolorowe">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>	
+	
+		<image Thumb="ipispan/logo/logo-kolor-3d-thumb.jpg" Large="ipispan/logo/logo-kolor-3d.jpg" Caption="Logo kolorowe 3D">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>	
+		
+		<image Thumb="ipispan/logo/logo-grey-thumb.jpg" Large="ipispan/logo/logo-grey.jpg" Caption="Logo w skali szarości">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>	
+		
+		<image Thumb="ipispan/logo/logo-cb-thumb.jpg" Large="ipispan/logo/logo-cb.jpg" Caption="Logo czarnobiałe">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">  </font><br>]]></copy>
+		</image>	
+	
+		<image Thumb="ipispan/logo/medal-thumb.jpg" Large="ipispan/logo/medal.jpg" Caption="Medal">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Pamiątkowy medal wykonany na 50 rocznicę Instytutu.</b></font><br>]]></copy>
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Pamiątkowy medal wykonany na 50 rocznicę Instytutu.</font><br>]]></copy>
+		</image>	
+			
+	
+	</gallery>
+	
+	
+</content>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="MEDIA MARKT">
+
+
+<gallery Name="BILBORDY">
+
+    <image Thumb="mediamarkt/bilbordy/thumb01.jpg" Large="mediamarkt/bilbordy/bilbord_01.jpg" Caption="Bilbord styczeń 2016">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Bilbord styczeń 2016</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/bilbordy/thumb02.jpg" Large="mediamarkt/bilbordy/bilbord_02.jpg" Caption="Bilbord wrzesień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Bilbord wrzesień 2015</font><br>]]></copy>
+    </image>
+
+</gallery>
+
+
+<gallery Name="BANERY">
+
+    <image Thumb="mediamarkt/banery/thumb01.jpg" Large="mediamarkt/banery/baner_01.jpg" Caption="Baner styczeń 2016">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner styczeń 2016</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/banery/thumb02.jpg" Large="mediamarkt/banery/baner_02.jpg" Caption="Baner styczeń 2016">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner styczeń 2016</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/banery/thumb03.jpg" Large="mediamarkt/banery/baner_03.jpg" Caption="Baner luty 2016">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner luty 2016</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/banery/thumb04.jpg" Large="mediamarkt/banery/baner_04.jpg" Caption="ZDJĘCIE">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">ZDJĘCIE</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/banery/thumb05.jpg" Large="mediamarkt/banery/baner_05.jpg" Caption="Baner październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner październik 2015</font><br>]]></copy>
+    </image>
+
+</gallery>
+	
+
+
+<gallery Name="GAZETKI">
+
+    <image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_01-1.jpg" Caption="Gazetka grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka grudzień 2015</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_01-2.jpg" Caption="Gazetka grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka grudzień 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_02-1.jpg" Caption="Gazetka listopad 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka listopad 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_02-2.jpg" Caption="Gazetka listopad 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka listopad 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_03-1.jpg" Caption="Gazetka listopad 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka listopad 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_03-2.jpg" Caption="Gazetka listopad 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka listopad 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_03-3.jpg" Caption="Gazetka listopad 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka listopad 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/gazetki/thumb01.jpg" Large="mediamarkt/gazetki/gazetka_03-4.jpg" Caption="Gazetka listopad 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Gazetka listopad 2015</font><br>]]></copy>
+    </image>
+
+</gallery>
+
+
+<gallery Name="PLAKATY">
+
+    <image Thumb="mediamarkt/plakaty/thumb01.jpg" Large="mediamarkt/plakaty/plakat_01.jpg" Caption="Plakat grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Plakat grudzień 2015</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/plakaty/thumb02.jpg" Large="mediamarkt/plakaty/plakat_02.jpg" Caption="Plakat grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Plakat grudzień 2015</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/plakaty/thumb03.jpg" Large="mediamarkt/plakaty/plakat_03.jpg" Caption="Plakat grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Plakat grudzień 2015</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/plakaty/thumb04.jpg" Large="mediamarkt/plakaty/plakat_04.jpg" Caption="Plakat grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Plakat grudzień 2015</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/plakaty/thumb05.jpg" Large="mediamarkt/plakaty/plakat_05.jpg" Caption="Plakat grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Plakat grudzień 2015</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/plakaty/thumb06.jpg" Large="mediamarkt/plakaty/plakat_06.jpg" Caption="Plakat grudzień 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Plakat grudzień 2015</font><br>]]></copy>
+    </image>
+
+</gallery>
+
+
+<gallery Name="ELEWACJA">
+
+	<image Thumb="mediamarkt/elewacja/thumb09.jpg" Large="mediamarkt/elewacja/elewacja_09.jpg" Caption="Elewacja ">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Zdjęcie elewacji Mediamarkt Zabrze</font><br>]]></copy>
+    </image>
+
+    <image Thumb="mediamarkt/elewacja/thumb01.jpg" Large="mediamarkt/elewacja/elewacja_01.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb03.jpg" Large="mediamarkt/elewacja/elewacja_03.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb04.jpg" Large="mediamarkt/elewacja/elewacja_04.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb05.jpg" Large="mediamarkt/elewacja/elewacja_05.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb06.jpg" Large="mediamarkt/elewacja/elewacja_06.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb07.jpg" Large="mediamarkt/elewacja/elewacja_07.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb08.jpg" Large="mediamarkt/elewacja/elewacja_08.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+	<image Thumb="mediamarkt/elewacja/thumb02.jpg" Large="mediamarkt/elewacja/elewacja_02.jpg" Caption="Elewacja październik 2015">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Baner na elewację październik 2015</font><br>]]></copy>
+    </image>
+
+</gallery>
+
+
+</content>

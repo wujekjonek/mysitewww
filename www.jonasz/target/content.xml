@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="TARGET">
+ 
+	<gallery Name="PLAKATY">
+
+	
+	
+
+
+		
+		<image Thumb="target/thumb.jpg" Large="target/plakat 02.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt plakatu dla Koła Naukowego Marketingu "Target".</font><br>]]></copy>
+		</image>
+
+		
+		<image Thumb="target/thumb.jpg" Large="target/plakat 01.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt plakatu dla Koła Naukowego Marketingu "Target".</font><br>]]></copy>
+		</image>		
+		
+		
+		
+		<image Thumb="target/thumb.jpg" Large="target/plakat 03.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt plakatu dla Koła Naukowego Marketingu "Target". </font><br>]]></copy>
+		</image>
+
+		<image Thumb="target/thumb.jpg" Large="target/plakat 04.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt plakatu dla Koła Naukowego Marketingu "Target". </font><br>]]></copy>
+		</image>
+
+		<image Thumb="target/thumb.jpg" Large="target/plakat 05.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt plakatu dla Koła Naukowego Marketingu "Target". </font><br>]]></copy>
+		</image>
+
+												
+			
+	
+		
+
+		
+		
+		
+	</gallery>
+
+</content>

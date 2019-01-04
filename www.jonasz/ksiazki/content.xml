@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="KSIĄŻKI">
+ 
+	<gallery Name="RÓŻNE">
+
+	
+	
+		<image Thumb="ksiazki/01-thumb.jpg" Large="ksiazki/01.jpg" Caption="Książka">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Skład i łamamie ksiązki. </font><br>]]></copy>
+		</image>
+
+		<image Thumb="ksiazki/02-thumb.jpg" Large="ksiazki/02.jpg" Caption="Książka">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Skład i łamamie ksiązki.  </font><br>]]></copy>
+		</image>		
+				
+			
+		<image Thumb="ksiazki/03-thumb.jpg" Large="ksiazki/03.jpg" Caption="Książka">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Skład i łamamie ksiązki.  </font><br>]]></copy>
+		</image>
+
+
+		<image Thumb="ksiazki/04-thumb.jpg" Large="ksiazki/04.jpg" Caption="Książka">
+		<copy><![CDATA[<font color="#FFFFFF" size="15">Skład i łamamie ksiązki.  </font><br>]]></copy>
+		</image>
+
+
+		
+		
+	</gallery>
+
+</content>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="LU Polska">
+  
+  
+  <gallery Name="DELICJE">
+    <image Thumb="lupolska/delicje/delicje-01-thumb.jpg" Large="lupolska/delicje/delicje-01.jpg" Caption="Stand 1">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt standu</b></font><br>]]></copy>
+    </image>
+    <image Thumb="lupolska/delicje/delicje-02-thumb.jpg" Large="lupolska/delicje/delicje-02.jpg" Caption="Stand 2">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt standu</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-03-thumb.jpg" Large="lupolska/delicje/delicje-03.jpg" Caption="Listwa 1">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Listwa napolkowa</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-04-thumb.jpg" Large="lupolska/delicje/delicje-04.jpg" Caption="Listwa 2">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Listwa napolkowa</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-06-thumb.jpg" Large="lupolska/delicje/delicje-06.jpg" Caption="Wobler 1">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt woblera</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-07-thumb.jpg" Large="lupolska/delicje/delicje-07.jpg" Caption="Wobler 2">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt woblera</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-08-thumb.jpg" Large="lupolska/delicje/delicje-08.jpg" Caption="Wobler 3">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt woblera</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-09-thumb.jpg" Large="lupolska/delicje/delicje-09.jpg" Caption="Wobler 4">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt woblera</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-05-thumb.jpg" Large="lupolska/delicje/delicje-05.jpg" Caption="Znak 1">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Znak</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-10-thumb.jpg" Large="lupolska/delicje/delicje-10.jpg" Caption="Znak 2">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Znak</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-11-thumb.jpg" Large="lupolska/delicje/delicje-11.jpg" Caption="Znak 3">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Znak</b></font><br>]]></copy>
+    </image>
+	<image Thumb="lupolska/delicje/delicje-12-thumb.jpg" Large="lupolska/delicje/delicje-12.jpg" Caption="Naklejka">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt naklejki promocyjnej</b></font><br>]]></copy>
+    </image>
+	
+	 </gallery>
+	
+
+
+
+<gallery Name="SKARB W DELICJACH">
+    <image Thumb="lupolska/skarb/delicje-01-thumb.jpg" Large="lupolska/skarb/makro.jpg" Caption=" ">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+    </image>
+
+    <image Thumb="lupolska/skarb/delicje-01-thumb.jpg" Large="lupolska/skarb/ulotkaa6.jpg" Caption=" ">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+    </image>
+
+
+    <image Thumb="lupolska/skarb/delicje-01-thumb.jpg" Large="lupolska/skarb/sticker.jpg" Caption=" ">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b> </b></font><br>]]></copy>
+    </image>
+
+	
+	
+	
+	
+	 </gallery>
+	 
+	
+	 
+</content>

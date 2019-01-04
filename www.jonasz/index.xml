@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+    <settings>
+        <logo X="5" Y="30">content/logo.jpg</logo>
+        <footer><![CDATA[v.16.07.16]]></footer>
+        <menu showNav="true"/>
+    </settings>
+    <nav>
+	
+	<!--
+	
+	
+        <main Name="HOME" Link="home.swf"/>
+        <main Name="FEATURES" Link="content.swf" toLoad ="content/features.xml"/>
+        <main Name="SLIDE SHOW" Link="slideshow.swf"/>
+        <main Name="TEAM MEMBERS" Link="team.swf"/>
+        <main Name="SUBMENU EXAMPLE">
+                <sub Name="SLIDE SHOW" Link="slideshow.swf"/>
+                <sub Name="CONTENT WINDOW" Link="content.swf" toLoad ="content/content.xml"/>
+                <sub Name="NEWS" Link="news.swf"/>
+      		<sub Name="IMAGE GALLERY" Link="imagegallery.swf"/>
+                <sub Name="VIDEO GALLERY" Link="videogallery.swf"/>
+        </main>
+        <main Name="CONTENT WINDOW" Link="content.swf" toLoad ="content/content.xml"/>
+        <main Name="NEWS" Link="news.swf"/>
+        <main Name="IMAGE GALLERY" Link="imagegallery.swf"/>
+        <main Name="VIDEO GALLERY" Link="videogallery.swf"/>
+        <main Name="CONTACT US" Link="contact.swf"/>
+        <main Name="EXTERNAL LINK" Link="http://www.flashden.net"/>
+		
+		
+		<main Name=" " Link=" "/>
+		
+		-->
+		
+		
+		<!--	--------------------------------	-->
+
+
+
+        <main Name="HOME" Link="content.swf" toLoad ="content/features.xml"/>
+		
+		
+		
+		<main Name="6MEDIA" Link="6media.swf"/>				
+		
+		<main Name="ADIDAS" Link="adidas.swf"/>
+		
+		<main Name="BOST" Link="bost.swf"/>		
+		
+
+		<main Name="DANONE" Link="danone.swf"/>
+		
+		<main Name="ICI PAINTS" Link="ici.swf"/>		
+		
+		
+		<main Name="IPIS PAN" Link="ipispan.swf"/>
+			
+		
+		<main Name="LU POLSKA" Link="lupolska.swf"/>		
+				
+<!--		<main Name="MARS POLSKA - w przygotowaniu" Link="mars.swf"/>     -->
+		
+		<main Name="MEDIAMARKT" Link="mediamarkt.swf"/>
+		
+
+		
+		<main Name="NESTLE" Link="nestle.swf"/>
+		
+		<main Name="PJWSTK" Link="pjwstk.swf"/>
+		
+		
+		<main Name="SIMPLUS" Link="simplus.swf"/>		
+		
+		<main Name="STORCK" Link="storck.swf"/>			
+		
+		
+		<main Name="TARGET" Link="target.swf"/>				
+		
+		<main Name="UNCLE BEN'S" Link="unclebens.swf"/>
+		
+		<main Name="WYDAWNICTWO GALL" Link="gall.swf"/>
+		
+
+		
+		<main Name="PLAKATY" Link="plakaty.swf"/>
+		
+
+		<main Name="> KSIAZKI" Link="ksiazki.swf"/>		
+
+		
+		<main Name="KONTAKT" Link="contact.swf"/>
+		
+		
+		
+    </nav>
+</content>
+
+

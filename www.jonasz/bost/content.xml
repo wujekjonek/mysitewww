@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="BOST">
+
+
+	<gallery Name="WWW">
+
+    <image Thumb="bost/thumb.jpg" Large="bost/01.jpg" Caption="www">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt strony www dla firmy BOST.</font><br>]]></copy>
+    </image>
+
+    <image Thumb="bost/thumb.jpg" Large="bost/02.jpg" Caption="www">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt strony www dla firmy BOST.</font><br>]]></copy>
+    </image>
+	
+    <image Thumb="bost/thumb.jpg" Large="bost/03.jpg" Caption="www">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt strony www dla firmy BOST.</font><br>]]></copy>
+    </image>
+
+    <image Thumb="bost/thumb.jpg" Large="bost/04.jpg" Caption="www">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt strony www dla firmy BOST.</font><br>]]></copy>
+    </image>
+
+    <image Thumb="bost/thumb.jpg" Large="bost/05.jpg" Caption="www">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt strony www dla firmy BOST.</font><br>]]></copy>
+    </image>	
+	
+	
+  </gallery>	
+
+
+	
+
+</content>

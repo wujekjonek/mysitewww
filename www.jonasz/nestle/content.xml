@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="NESTLE">
+  <gallery Name="KITKAT">
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/plakat 01.jpg" Caption="Plakat">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Plakat</b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/plakat 02.jpg" Caption="Plakat">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Plakat</b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/pocztowka 01.jpg" Caption="Pocztówka">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Pocztówka</b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/pocztowka v01.jpg" Caption="Pocztówka">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Pocztówka</b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/pocztowka v02.jpg" Caption="Pocztówka">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Pocztówka</b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/ulotka przod.jpg" Caption="Ulotka">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Ulotka</b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/kitkat/thumb01.jpg" Large="nestle/kitkat/koszulka.jpg" Caption="Koszulka">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt koszulki</b></font><br>]]></copy>
+    </image>
+	 </gallery>
+	
+	
+	<gallery Name="WINIARY - CHRRUPA">
+    <image Thumb="nestle/chrupa/chrup i chlap-thumb.jpg" Large="nestle/chrupa/chrup i chlap.jpg" Caption="chrup i chlap">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/chrupa/do zachrupania-thumb.jpg" Large="nestle/chrupa/do zachrupania.jpg" Caption="do zachrupania">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/chrupa/mery chrupa-thumb.jpg" Large="nestle/chrupa/mery chrupa.jpg" Caption="mery chrupa">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/chrupa/no to chrup-thumb.jpg" Large="nestle/chrupa/no to chrup.jpg" Caption="no to chrup">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/chrupa/schrup co nas-thumb.jpg" Large="nestle/chrupa/schrup co nas.jpg" Caption="schrup co nas">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/chrupa/zarty na bok-thumb.jpg" Large="nestle/chrupa/zarty na bok.jpg" Caption="zarty na bok">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+    <image Thumb="nestle/chrupa/chrupa-front + tyl-thumb.jpg" Large="nestle/chrupa/chrupa-front + tyl.jpg" Caption="ulotka">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+	<image Thumb="nestle/chrupa/plakat-thumb.jpg" Large="nestle/chrupa/plakat.jpg" Caption="Plakat">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+
+	<image Thumb="nestle/chrupa/chrupa-toper-thumb.jpg" Large="nestle/chrupa/chrupa-toper.jpg" Caption="Toper">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+ 
+	<image Thumb="nestle/chrupa/chrupa-toper2-thumb.jpg" Large="nestle/chrupa/chrupa-toper2.jpg" Caption="Toper">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+
+	<image Thumb="nestle/chrupa/toper3-thumb.jpg" Large="nestle/chrupa/toper3.jpg" Caption="Toper">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+
+	<image Thumb="nestle/chrupa/toper4-thumb.jpg" Large="nestle/chrupa/toper4.jpg" Caption="Toper">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+
+
+<image Thumb="nestle/chrupa/chrupa-komplet-thumb.jpg" Large="nestle/chrupa/chrupa-komplet.jpg" Caption="Kompet">
+    <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Ulotka wraz z naklejkami.</b></font><br>]]></copy>
+    </image>
+
+
+
+
+	 </gallery>
+
+	 
+	 <gallery Name="PURINA">
+    <image Thumb="nestle/purina/thumb01.jpg" Large="nestle/purina/plakat 01.jpg" Caption="plakat">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+	 <image Thumb="nestle/purina/thumb01.jpg" Large="nestle/purina/plakat 02.jpg" Caption="plakat">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+    </image>
+	 
+	 
+</content>

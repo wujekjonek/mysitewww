@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="GALL">
+
+
+	<gallery Name="WINIETKI">
+    <image Thumb="gall/thumb01.jpg" Large="gall/p01.jpg" Caption="Standardy Geodezyjne">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Winieta do programu Standardy Geodezyjne</font><br>]]></copy>
+    </image>
+
+    <image Thumb="gall/thumb02.jpg" Large="gall/p02.jpg" Caption="Słownik Geodezyjny">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Winieta do programu Słownik Geodezyjny</font><br>]]></copy>
+    </image>
+	
+	<image Thumb="gall/thumb03.jpg" Large="gall/p03.jpg" Caption="Przepisy Prawne">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Winieta do programu Przepisy Prawne</font><br>]]></copy>
+    </image>
+	</gallery>	
+
+
+
+	<gallery Name="STRONY WWW">
+	<image Thumb="gall/thumb01.jpg" Large="gall/strona01.jpg" Caption=" ">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Stona www</font><br>]]></copy>
+    </image>
+	
+	<image Thumb="gall/thumb01.jpg" Large="gall/strona02.jpg" Caption=" ">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Stona www</font><br>]]></copy>
+    </image>
+	</gallery>	
+	
+	
+	
+	<gallery Name="NADRUK NA CD">
+	<image Thumb="gall/thumb04.jpg" Large="gall/plyta01.jpg" Caption="Płyta CD">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt nadruku na płytę CD.</font><br>]]></copy>
+    </image>
+	</gallery>	
+	
+	
+	<gallery Name="IKONKI">
+	<image Thumb="gall/thumb01.jpg" Large="gall/ikony.gif" Caption="Ikonki">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekty ikonek do programów.</font><br>]]></copy>
+    </image>
+	</gallery>	
+	
+	
+
+</content>

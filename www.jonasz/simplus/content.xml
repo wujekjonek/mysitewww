@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="SIMPLUS">
+ 
+	<gallery Name="OLIMPIADA FM">  
+	
+	<image Thumb="simplus/thumb.jpg" Large="simplus/auto01.jpg" Caption="auto">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt oklejenia auta na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+
+	<image Thumb="simplus/thumb.jpg" Large="simplus/auto02.jpg" Caption="auto">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt oklejenia auta na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+
+
+	<image Thumb="simplus/thumb.jpg" Large="simplus/auto03.jpg" Caption="auto">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt oklejenia auta na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+		
+		
+		
+	<image Thumb="simplus/thumb.jpg" Large="simplus/auto04.jpg" Caption="auto">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Projekt oklejenia auta na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+		
+				
+	<image Thumb="simplus/thumb.jpg" Large="simplus/drogowskaz lewo.jpg" Caption="drogowskaz">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Drogowskaz na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+				
+
+	<image Thumb="simplus/thumb.jpg" Large="simplus/drogowskaz prawo.jpg" Caption="drogowskaz">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Drogowskaz na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+
+
+	<image Thumb="simplus/thumb.jpg" Large="simplus/ulotka.jpg" Caption="ulotka">
+	<copy><![CDATA[<font color="#FFFFFF" size="15">Ulotka na Olimpiadę FM, 2002 r.</font><br>]]></copy>
+	</image>
+				
+		
+	
+
+</content>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="CATEGORIES">
+
+<gallery Name="VIDEO">
+    <item Thumb="videogallery/gallery1/thumb1.jpg" VideoClip="videogallery/gallery1/video1.flv" Width="600" Height="450" Title="4:3 video Example (Large)">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>4:3 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb2.jpg" VideoClip="videogallery/gallery1/video2.flv" Width="400" Height="225" Title="16:9 video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>16:9 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb3.jpg" VideoClip="videogallery/gallery1/video3.flv" Width="400" Height="400" Title="Square video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Square video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb2.jpg" VideoClip="videogallery/gallery1/video2.flv" Width="400" Height="225" Title="16:9 video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>16:9 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb3.jpg" VideoClip="videogallery/gallery1/video3.flv" Width="400" Height="400" Title="Square video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Square video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb1.jpg" VideoClip="videogallery/gallery1/video1.flv" Width="400" Height="300" Title="4:3 video Example (Small)">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>4:3 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb2.jpg" VideoClip="videogallery/gallery1/video2.flv" Width="400" Height="225" Title="16:9 video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>16:9 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb3.jpg" VideoClip="videogallery/gallery1/video3.flv" Width="400" Height="400" Title="Square video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Square video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb1.jpg" VideoClip="videogallery/gallery1/video1.flv" Width="600" Height="450" Title="4:3 video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>4:3 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+</gallery>
+
+<gallery Name="MORE VIDEOS">
+    <item Thumb="videogallery/gallery1/thumb2.jpg" VideoClip="videogallery/gallery1/video2.flv" Width="400" Height="225" Title="16:9 video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>16:9 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb3.jpg" VideoClip="videogallery/gallery1/video3.flv" Width="400" Height="400" Title="Square video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Square video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb1.jpg" VideoClip="videogallery/gallery1/video1.flv" Width="600" Height="450" Title="4:3 video Example (Large)">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>4:3 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+    <item Thumb="videogallery/gallery1/thumb2.jpg" VideoClip="videogallery/gallery1/video2.flv" Width="400" Height="225" Title="16:9 video Example">
+	<copy><![CDATA[<font color="#FFFFFF" size="15"><b>16:9 video Example</b></font><br>You can add any size video to this gallery and it will always maintain aspect ratio in fullscreen mode. The width and height of each video can be defined in the XML. You can add video formats such as FLV, MP4 and MOV.<br><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras lacus ipsum, tempus ac, auctor sed, tempus id, lectus. ]]></copy>
+    </item>
+</gallery>
+
+</content>

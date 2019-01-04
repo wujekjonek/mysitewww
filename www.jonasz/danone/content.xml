@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content Name="DANONE">
+
+	<gallery Name="ACTIMEL">
+		<image Thumb="danone/actimel/a-thumb.jpg" Large="danone/actimel/a.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/b-thumb.jpg" Large="danone/actimel/b.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/c-thumb.jpg" Large="danone/actimel/c.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/abc-thumb.jpg" Large="danone/actimel/abc.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/listwa 4x40-thumb.jpg" Large="danone/actimel/listwa 4x40.jpg" Caption="Listwa">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/wobbler-12-thumb.jpg" Large="danone/actimel/wobbler-12.jpg" Caption="Wobler">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/listwa 6x50-thumb.jpg" Large="danone/actimel/listwa 6x50.jpg" Caption="Listwa">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/owijka 40x60-thumb.jpg" Large="danone/actimel/owijka 40x60.jpg" Caption="Owijka">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/skiper-thumb.jpg" Large="danone/actimel/skiper.jpg" Caption="Skiper">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/b1-thumb.jpg" Large="danone/actimel/b1.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	
+		<image Thumb="danone/actimel/b2-thumb.jpg" Large="danone/actimel/b2.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b></b></font><br>]]></copy>
+		</image>
+	</gallery>
+		
+	<gallery Name="TRUSKAWKA">
+		<image Thumb="danone/truskawka/thumb01.jpg" Large="danone/truskawka/listwa 60x500.jpg" Caption="Listwa">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Listwa</b></font><br>]]></copy>
+		</image>
+		
+		<image Thumb="danone/truskawka/thumb01.jpg" Large="danone/truskawka/plakat b1.jpg" Caption="Plakat">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Plakat B1</b></font><br>]]></copy>
+		</image>
+		
+		<image Thumb="danone/truskawka/thumb01.jpg" Large="danone/truskawka/skiper.jpg" Caption="Skiper">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Skiper</b></font><br>]]></copy>
+		</image>
+		
+		<image Thumb="danone/truskawka/thumb01.jpg" Large="danone/truskawka/wobler.jpg" Caption="Wobler">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Wobler</b></font><br>]]></copy>
+		</image>	
+	</gallery>
+	
+	<gallery Name="STANDY">
+		<image Thumb="danone/standy/stand 01-thumb.jpg" Large="danone/standy/stand 01.jpg" Caption="Stand degustacyjny 1">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt grafiki na standzie degustacyjnym</b></font><br>]]></copy>
+		</image>	
+		
+		<image Thumb="danone/standy/stand 02-thumb.jpg" Large="danone/standy/stand 02.jpg" Caption="Stand degustacyjny 2">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt grafiki na standzie degustacyjnym</b></font><br>]]></copy>
+		</image>
+		
+		<image Thumb="danone/standy/stand 03-thumb.jpg" Large="danone/standy/stand 03.jpg" Caption="Stand degustacyjny 3">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt grafiki na standzie degustacyjnym</b></font><br>]]></copy>
+		</image>
+		
+		<image Thumb="danone/standy/stand 04-thumb.jpg" Large="danone/standy/stand 04.jpg" Caption="Stand degustacyjny 4">
+		<copy><![CDATA[<font color="#FFFFFF" size="15"><b>Projekt grafiki na standzie degustacyjnym</b></font><br>]]></copy>
+		</image>
+		
+		<image Thumb="danone/standy/stand 05-thumb.jpg" Large="danone/standy/stand 05.jpg" Caption="Stand degustacyjny 5">
+		<copy><![CDATA[Projekt grafiki na standzie degustacyjnym]]></copy>
+		</image>	
+	</content>
