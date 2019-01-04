@@ -44,12 +44,6 @@ for (i = 0; i < ilosc; i++) {
     document.getElementById('id_' + i).appendChild(x);
 
 
-
-
-
-
-
-
     for (j = 0; j < menu.kafelki[i].podmenu.length; j++) {
         console.log('odczyt: ', menu.kafelki[i].podmenu[j].val);
 
@@ -62,7 +56,7 @@ for (i = 0; i < ilosc; i++) {
         // $('.klasax').html('#####');
 
 
-          pp = pp + menu.kafelki[i].podmenu[j].val + '__' + '<br>';
+        pp = pp + menu.kafelki[i].podmenu[j].val + '__' + '<br>';
 
 
     }
@@ -70,7 +64,7 @@ for (i = 0; i < ilosc; i++) {
     console.log('------------------ ');
 
 
-    x.innerHTML = menu.kafelki[i].nazwa + '<br>' +  pp;
+    x.innerHTML = menu.kafelki[i].nazwa + '<br>' + pp;
 
 
 }
